@@ -1,0 +1,13 @@
+D:\VB PRO\lib\lib\bin\Debug\lib.exe
+D:\VB PRO\lib\lib\bin\Debug\lib.pdb
+D:\VB PRO\lib\lib\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.Properties.Resources.resources
+D:\VB PRO\lib\lib\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VB PRO\lib\lib\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.exe
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.pdb
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.LogIn.resources
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.Registration.resources
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.ManageBooks.resources
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.ChangePassword.resources
+D:\VB PRO\lib\lib\obj\x86\Debug\lib.User.resources
